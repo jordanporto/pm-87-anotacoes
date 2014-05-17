@@ -1,1 +1,2 @@
-O git --> deu bom --> super legal 
+O git --> deu bom --> super legal
+testes de conflitos 
